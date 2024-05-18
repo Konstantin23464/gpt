@@ -1,0 +1,2 @@
+key = "6927494999:AAE9ArfjTbKtivxCAZNAELXpf4YwmAPEiHU"
+API_KEY = "sk-wxhei6gPtwLduNueCbJmQAP6GUs9H"
